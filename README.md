@@ -1,0 +1,1 @@
+This is a collection of data science projects during my time at Marquette. These projects utilized Python, R, and MATLAB to create data visualizations, data analysis, regression analysis, and data models.
